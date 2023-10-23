@@ -1,0 +1,41 @@
+#Area {
+    width: 800px;
+    height: 200px;
+    border: 1px solid black;
+    position: relative;
+    overflow: hidden;
+}
+#areadrop {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    
+  
+}
+#trex {
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    position: absolute;
+    bottom: 0;
+}
+#element {
+    width: 20px;
+    height: 50px;
+    background-color: brown;
+    position: absolute;
+    right: -20px;
+    bottom: 0;
+}
+#element1 {
+    width: 50px;
+    height: 50px;
+    background-color:green;
+    position: absolute;
+    right: -20px;
+    bottom: 50px;
+}
+img {
+    width: 50px;
+    height: 50px;
+}
