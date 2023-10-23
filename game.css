@@ -1,13 +1,13 @@
 #Area {
     width: 800px;
-    height: 200px;
+    height: 210px;
     border: 1px solid black;
     position: relative;
     overflow: hidden;
 }
-#areadrop {
+.areadrop {
     width: 50px;
-    height: 50px;
+    height: 52px;
     border: 1px solid black;
     
   
@@ -15,14 +15,12 @@
 #trex {
     width: 50px;
     height: 50px;
-    background-color: green;
     position: absolute;
     bottom: 0;
 }
 #element {
-    width: 20px;
+    width: 50px;
     height: 50px;
-    background-color: brown;
     position: absolute;
     right: -20px;
     bottom: 0;
@@ -30,12 +28,25 @@
 #element1 {
     width: 50px;
     height: 50px;
-    background-color:green;
     position: absolute;
-    right: -20px;
-    bottom: 50px;
+    right: -300px;
+    bottom: 52px;
 }
-img {
+#element2 {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    right: -520px;
+    bottom: 105px;
+}
+#element3 {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    right: -770px;
+    bottom: 160px;
+}
+#drag1 {
     width: 50px;
     height: 50px;
 }
